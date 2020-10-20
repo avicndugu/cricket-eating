@@ -45,7 +45,7 @@ body, div{
     /*float:right;*/
 }
 .nav-ul-li {
-    font-family:Impact, Charcoal, sans-serif;
+    font-family:arial, Verdana, sans-serif;
     opacity:1;
     display:inline;
 }
@@ -53,6 +53,7 @@ body, div{
     text-decoration: none;
     text-align: center;
     color:#350e8e;
+    font-size: 1.2em;
 }
 .nav-items {
     padding:15px 30px;
